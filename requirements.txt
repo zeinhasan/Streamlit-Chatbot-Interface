@@ -1,0 +1,5 @@
+openai
+streamlit
+langchain
+vertexai
+google-cloud-aiplatform
